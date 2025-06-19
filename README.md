@@ -5,7 +5,6 @@ SwiftShip is a responsive front-end dashboard built with HTML, CSS, and JavaScri
 ## 🔧 Features
 - Real-time delivery status simulation
 - Interactive timeline and delivery details
-- Driver location map
 - Responsive design for all devices
 
 ## 💻 Tech Stack
