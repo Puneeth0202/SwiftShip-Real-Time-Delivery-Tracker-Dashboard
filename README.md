@@ -18,8 +18,4 @@ SwiftShip is a responsive front-end dashboard built with HTML, CSS, and JavaScri
 1. Download or clone this repository.
 2. Open `index.html` in your web browser.
 
-## 📸 Preview
-![SwiftShip Screenshot](#)
-
----
 
